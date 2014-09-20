@@ -1,0 +1,25 @@
+#console-container{
+    width: 960px;
+    margin: auto;
+}
+
+#main-output{
+    background-color: #000000;
+    color: #55ff55;
+    resize: none;
+    width: 960px;
+    height: 480px;
+    margin: 0;
+}
+
+#main-input{
+    margin: 0 5px 0 0;
+    width: 900px;
+    float: left;
+}
+
+#send{
+    width: 55px;
+    float: left;
+    margin: 0;
+}
